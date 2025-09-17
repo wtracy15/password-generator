@@ -1,3 +1,39 @@
 body {
     margin: 0;
+    background-color: #1c1c1c;
+}
+
+#container {
+    background-color: #1f2937;
+    width: 550px;
+    margin: 0 auto
+}
+
+#title1 {
+    color: white;
+}
+
+#title2 {
+    color: #4adf86;
+}
+
+#subtitle {
+    color: #d5d4d8;
+}
+
+button {
+    background-color: #10b981;
+    color: #e1f6ef;
+    border: none;
+    border-radius: 2px;
+}
+
+#password-box {
+    display: flex;
+    justify-content: space-evenly;
+    border-top: 1px solid #2f3e53
+}
+
+.password {
+    color: #10b981;
 }
